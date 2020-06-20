@@ -1,3 +1,11 @@
 ﻿  test.cpp
 D:\Unity_temp\MyOPenGL\OPGLTest\shader_s.h(58,40): warning C4101: “e”: 未引用的局部变量
+D:\Unity_temp\MyOPenGL\OPGLTest\test.cpp(224,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Unity_temp\MyOPenGL\OPGLTest\test.cpp(292,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Unity_temp\MyOPenGL\OPGLTest\test.cpp(318,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Unity_temp\MyOPenGL\OPGLTest\test.cpp(319,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Unity_temp\MyOPenGL\OPGLTest\test.cpp(323,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Unity_temp\MyOPenGL\OPGLTest\test.cpp(324,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Unity_temp\MyOPenGL\OPGLTest\test.cpp(325,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Unity_temp\MyOPenGL\OPGLTest\test.cpp(326,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
   OPGLTest.vcxproj -> D:\Unity_temp\MyOPenGL\x64\Debug\OPGLTest.exe

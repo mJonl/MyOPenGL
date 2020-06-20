@@ -31,10 +31,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="fragment.vs">
+    <None Include="fragment.shader">
       <Filter>源文件</Filter>
     </None>
-    <None Include="vertex.vs">
+    <None Include="vertex.shader">
       <Filter>源文件</Filter>
     </None>
   </ItemGroup>
