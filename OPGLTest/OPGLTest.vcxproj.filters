@@ -23,10 +23,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="shader_s.h">
+    <ClInclude Include="..\include\stb_image.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\stb_image.h">
+    <ClInclude Include="learnopengl\camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="learnopengl\shader_s.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

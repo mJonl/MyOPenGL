@@ -133,7 +133,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\include\stb_image.h" />
-    <ClInclude Include="shader_s.h" />
+    <ClInclude Include="learnopengl\camera.h" />
+    <ClInclude Include="learnopengl\shader_s.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="vertex.shader" />
