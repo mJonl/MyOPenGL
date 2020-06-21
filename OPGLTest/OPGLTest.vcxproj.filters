@@ -34,11 +34,17 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="fragment.shader">
+    <None Include="base_light_vs.shader">
       <Filter>源文件</Filter>
     </None>
-    <None Include="vertex.shader">
+    <None Include="base_light_fs.shader">
       <Filter>源文件</Filter>
+    </None>
+    <None Include="light_cube_vs.shader">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="light_cube_fs.shader">
+      <Filter>头文件</Filter>
     </None>
   </ItemGroup>
 </Project>
