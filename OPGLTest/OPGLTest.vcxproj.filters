@@ -29,22 +29,31 @@
     <ClInclude Include="learnopengl\camera.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="learnopengl\shader_s.h">
+    <ClInclude Include="learnopengl\Mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="learnopengl\Model.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="learnopengl\shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="learnopengl\shader_m.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="base_light_vs.shader">
-      <Filter>源文件</Filter>
-    </None>
-    <None Include="base_light_fs.shader">
-      <Filter>源文件</Filter>
-    </None>
     <None Include="light_cube_vs.shader">
       <Filter>头文件</Filter>
     </None>
     <None Include="light_cube_fs.shader">
       <Filter>头文件</Filter>
+    </None>
+    <None Include="1.model_loading_vs.shader">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="1.model_loading_fs.shader">
+      <Filter>源文件</Filter>
     </None>
   </ItemGroup>
 </Project>
